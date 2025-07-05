@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "96ad",
+      "rollNo": "200",
+      "name": "Keerthika",
+      "college": "KLU",
+      "course": "CSE",
+      "fee": "145000",
+      "marks": "89"
+    },
+    {
+      "id": "555a",
+      "rollNo": "300",
+      "name": "Basha",
+      "college": "KLU",
+      "course": "CSE",
+      "fee": "145000",
+      "marks": "89"
+    }
+  ]
+}
