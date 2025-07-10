@@ -40,7 +40,7 @@ const saveNewStudent = (e:FormDataEvent)=>{
     e.preventDefault();
     const stuObj = {rollNo,name,college,course,fee,marks};
 
-    axios.post("http://localhost:1234/students",stuObj)
+    axios.post("http://localhost:8080/jntu/keerthika/exam/stu/add/one",stuObj)
     .then(
         (res)=>{
 allStuPage("/");
